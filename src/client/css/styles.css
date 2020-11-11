@@ -1,0 +1,16 @@
+#pageHeading {
+    width:180px;
+    float:left;
+    color:black;
+}
+
+.pageButtons {
+    font-weight: bold;
+    text-align: center;
+    float: left;
+    border: solid 5px black;
+    border-radius: 10px;
+    box-sizing: border-box;
+    backgroung-color: #EEEEEE;
+    margin-right: 20pc;
+}
