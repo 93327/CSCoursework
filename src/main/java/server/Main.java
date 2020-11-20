@@ -17,7 +17,7 @@ public class Main {
 
     public static Connection db = null;
 
-    public static void main( String[] args) {
+    public static void main(String[] args) {
 
         openDatabase("MoneySaver.db");                     //connect to our database file, when you stop the server the connection to the database
         // is closed and you can access it through SQLite Studio
@@ -54,3 +54,5 @@ public class Main {
             System.out.println("Database connection error: " + exception.getMessage());
         }
     }
+
+}

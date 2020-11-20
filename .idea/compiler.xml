@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Coursework" />
         <module name="cs coursework" />
+        <module name="CSCourseworkShri" />
       </profile>
     </annotationProcessing>
   </component>
